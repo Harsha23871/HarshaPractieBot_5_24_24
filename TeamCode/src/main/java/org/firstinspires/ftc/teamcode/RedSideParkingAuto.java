@@ -122,7 +122,7 @@ public class RedSideParkingAuto extends LinearOpMode {
             rightFrontDrive.setPower(REVERSE_SPEED);
             leftBackDrive.setPower(REVERSE_SPEED);
             rightBackDrive.setPower(FORWARD_SPEED);
-            sleep(2200);
+            sleep(1750);
 
             // Step 2:Go Forward`
             leftFrontDrive.setPower(REVERSE_SPEED);
